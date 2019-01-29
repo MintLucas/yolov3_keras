@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<type>
+  <item Name="laptop">笔记本</item>
+  <item Name="smallelectronicequipmen">小电子设备</item>
+  <item Name="powerbank">充电宝</item>
+  <item Name="glassbottle">玻璃瓶</item>
+  <item Name="winebottle">酒瓶</item>
+  <item Name="umbrella">雨伞</item>
+  <item Name="metalcup">保温杯</item>
+  <item Name="lighter">打火机</item>
+  <item Name="pressure">压力容器罐</item>
+  <item Name="drinkbottle">饮料瓶</item>
+  <item Name="scissor">剪刀</item>
+  <item Name="defibrillator">电击器</item>
+  <item Name="gun">枪</item>
+  <item Name="magazine_clip">弹夹</item>
+  <item Name="fingerlock">指扣</item>
+  <item Name="slingshot">弹弓</item>
+  <item Name="expandablebaton">甩棍</item>
+  <item Name="zippooil">打火机油</item>
+  <item Name="nailpolish">指甲油</item>
+  <item Name="binghu">冰壶</item>
+  <item Name="handcuffs">手铐</item>
+  <item Name="fireworks_crackers">烟花爆竹</item>
+  <item Name="knife">刀</item>
+  <model_trust>30</model_trust>
+  <model_name>model_0921</model_name>
+  <mean_b>190.32811101</mean_b>
+  <mean_g>203.91470828</mean_g>
+  <mean_r>209.06117024</mean_r>
+</type>
