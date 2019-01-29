@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<VpSizeADD xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <folder>VOC2007</folder>
+  <filename>C:\Users\Administrator\Desktop\分配-叶明慧儿-400-2018.7.5\HCZ_HFGTNZ_20180621_10262.jpg</filename>
+  <segmented>0</segmented>
+  <source>
+    <database>The VOC2007 Database</database>
+    <annotation>PASCAL VOC2007</annotation>
+    <image>flickr</image>
+    <flickrid>330391518</flickrid>
+  </source>
+  <owner>
+    <flickrid>supershoppertoo</flickrid>
+    <name>cnivs</name>
+  </owner>
+  <size>
+    <width>801</width>
+    <height>242</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>smallelectronicequipmen</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>191</xmin>
+      <ymin>54</ymin>
+      <xmax>279</xmax>
+      <ymax>160</ymax>
+    </bndbox>
+  </object>
+  <VpSize>
+    <Xmin>528</Xmin>
+    <Ymin>36</Ymin>
+    <Xmax>685</Xmax>
+    <Ymax>212</Ymax>
+  </VpSize>
+  <VpSize>
+    <Xmin>166</Xmin>
+    <Ymin>30</Ymin>
+    <Xmax>334</Xmax>
+    <Ymax>190</Ymax>
+  </VpSize>
+</VpSizeADD>

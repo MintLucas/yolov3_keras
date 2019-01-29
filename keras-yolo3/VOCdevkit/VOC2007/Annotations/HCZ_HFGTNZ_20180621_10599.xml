@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<VpSizeADD xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <folder>VOC2007</folder>
+  <filename>C:\Users\Administrator\Desktop\检查-徐泽-2018.7.12\分配-陈旭东-400-2018.7.6\HCZ_HFGTNZ_20180621_10599.jpg</filename>
+  <segmented>0</segmented>
+  <source>
+    <database>The VOC2007 Database</database>
+    <annotation>PASCAL VOC2007</annotation>
+    <image>flickr</image>
+    <flickrid>330391518</flickrid>
+  </source>
+  <owner>
+    <flickrid>supershoppertoo</flickrid>
+    <name>cnivs</name>
+  </owner>
+  <size>
+    <width>801</width>
+    <height>426</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>plasticcup</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>335</xmin>
+      <ymin>278</ymin>
+      <xmax>454</xmax>
+      <ymax>396</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>smallelectronicequipmen</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>619</xmin>
+      <ymin>131</ymin>
+      <xmax>681</xmax>
+      <ymax>208</ymax>
+    </bndbox>
+  </object>
+  <VpSize>
+    <Xmin>165</Xmin>
+    <Ymin>225</Ymin>
+    <Xmax>447</Xmax>
+    <Ymax>385</Ymax>
+  </VpSize>
+  <VpSize>
+    <Xmin>610</Xmin>
+    <Ymin>30</Ymin>
+    <Xmax>780</Xmax>
+    <Ymax>241</Ymax>
+  </VpSize>
+</VpSizeADD>

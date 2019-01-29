@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<VpSizeADD xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <folder>VOC2007</folder>
+  <filename>C:\Users\Administrator\Desktop\分配-叶明慧儿-400-2018.7.5\HCZ_HFGTNZ_20180621_10058.jpg</filename>
+  <segmented>0</segmented>
+  <source>
+    <database>The VOC2007 Database</database>
+    <annotation>PASCAL VOC2007</annotation>
+    <image>flickr</image>
+    <flickrid>330391518</flickrid>
+  </source>
+  <owner>
+    <flickrid>supershoppertoo</flickrid>
+    <name>cnivs</name>
+  </owner>
+  <size>
+    <width>801</width>
+    <height>544</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>umbrella</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>319</xmin>
+      <ymin>165</ymin>
+      <xmax>461</xmax>
+      <ymax>281</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>laptop</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>169</xmin>
+      <ymin>311</ymin>
+      <xmax>434</xmax>
+      <ymax>496</ymax>
+    </bndbox>
+  </object>
+  <VpSize>
+    <Xmin>0</Xmin>
+    <Ymin>42</Ymin>
+    <Xmax>475</Xmax>
+    <Ymax>514</Ymax>
+  </VpSize>
+  <VpSize>
+    <Xmin>606</Xmin>
+    <Ymin>30</Ymin>
+    <Xmax>801</Xmax>
+    <Ymax>450</Ymax>
+  </VpSize>
+</VpSizeADD>

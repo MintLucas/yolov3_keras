@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<VpSizeADD xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <folder>VOC2007</folder>
+  <filename>C:\Users\Administrator\Desktop\分配-叶明慧儿-400-2018.7.5\HCZ_HFGTNZ_20180621_10247.jpg</filename>
+  <segmented>0</segmented>
+  <source>
+    <database>The VOC2007 Database</database>
+    <annotation>PASCAL VOC2007</annotation>
+    <image>flickr</image>
+    <flickrid>330391518</flickrid>
+  </source>
+  <owner>
+    <flickrid>supershoppertoo</flickrid>
+    <name>cnivs</name>
+  </owner>
+  <size>
+    <width>801</width>
+    <height>341</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>smallelectronicequipmen</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>485</xmin>
+      <ymin>43</ymin>
+      <xmax>591</xmax>
+      <ymax>163</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>powerbank</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>437</xmin>
+      <ymin>163</ymin>
+      <xmax>482</xmax>
+      <ymax>226</ymax>
+    </bndbox>
+  </object>
+  <VpSize>
+    <Xmin>26</Xmin>
+    <Ymin>66</Ymin>
+    <Xmax>215</Xmax>
+    <Ymax>298</Ymax>
+  </VpSize>
+  <VpSize>
+    <Xmin>442</Xmin>
+    <Ymin>30</Ymin>
+    <Xmax>784</Xmax>
+    <Ymax>311</Ymax>
+  </VpSize>
+</VpSizeADD>

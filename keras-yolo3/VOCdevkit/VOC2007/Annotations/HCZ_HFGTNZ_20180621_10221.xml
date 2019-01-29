@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<VpSizeADD xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <folder>VOC2007</folder>
+  <filename>C:\Users\Administrator\Desktop\分配-叶明慧儿-400-2018.7.5\HCZ_HFGTNZ_20180621_10221.jpg</filename>
+  <segmented>0</segmented>
+  <source>
+    <database>The VOC2007 Database</database>
+    <annotation>PASCAL VOC2007</annotation>
+    <image>flickr</image>
+    <flickrid>330391518</flickrid>
+  </source>
+  <owner>
+    <flickrid>supershoppertoo</flickrid>
+    <name>cnivs</name>
+  </owner>
+  <size>
+    <width>771</width>
+    <height>391</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>umbrella</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>451</xmin>
+      <ymin>271</ymin>
+      <xmax>595</xmax>
+      <ymax>341</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>drinkbottle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>466</xmin>
+      <ymin>191</ymin>
+      <xmax>611</xmax>
+      <ymax>272</ymax>
+    </bndbox>
+  </object>
+  <VpSize>
+    <Xmin>137</Xmin>
+    <Ymin>205</Ymin>
+    <Xmax>260</Xmax>
+    <Ymax>334</Ymax>
+  </VpSize>
+  <VpSize>
+    <Xmin>423</Xmin>
+    <Ymin>30</Ymin>
+    <Xmax>643</Xmax>
+    <Ymax>361</Ymax>
+  </VpSize>
+</VpSizeADD>
