@@ -1,11 +1,24 @@
 import xml.etree.ElementTree as ET
 from os import getcwd
+'''
+make x_label_map
+import os
+classes = ["laptop", "smallelectronicequipmen", "powerbank", "glassbottle","winebottle","umbrella","metalcup","lighter","pressure","drinkbottle","scissor",
+           "defibrillator","gun","magazine_clip","fingerlock","slingshot","expandablebaton","zippooil","nailpolish","binghu","handcuffs","fireworks_crackers","knife"]
+x_label_map = open('./x_label_map.txt','w')
+for i in range(len(classes)):
+    x_label_map.write("item {\n  id: %d\n  name: '%s'\n}\n" %(i+1,classes[i]))
+x_label_map.close()
+'''
+
 
 sets=[('2007', 'train'), ('2007', 'val'), ('2007', 'test')]
 
 classes = ["laptop", "smallelectronicequipmen", "powerbank", "glassbottle","winebottle","umbrella","metalcup","lighter","pressure","drinkbottle","scissor",
            "defibrillator","gun","magazine_clip","fingerlock","slingshot","expandablebaton","zippooil","nailpolish","binghu","handcuffs","fireworks_crackers","knife"]
 trainingset_name = ""
+
+
 
 def convert_annotation(year, image_id, list_file):
     in_file = open('VOCdevkit%s/VOC%s/Annotations/%s.xml'%(trainingset_name, year, image_id))
