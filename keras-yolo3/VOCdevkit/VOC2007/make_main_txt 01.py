@@ -2,7 +2,8 @@ import os
 import random
 
 trainval_percent = 0.9#全0即都划分为测试集
-train_percent = 0.9
+train_percent = 0.9#tv里的0.9作训练0.1来测试，用留出法直接划分训练集验证机和测试集，
+#或tv作k-折交叉验证
 xmlfilepath = 'Annotations'
 txtsavepath = 'ImageSets\\Main'
 total_xml = os.listdir(xmlfilepath)#路径下所有文件名存进一个list
